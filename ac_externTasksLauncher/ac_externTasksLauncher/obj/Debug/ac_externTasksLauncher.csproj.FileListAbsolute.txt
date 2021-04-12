@@ -1,0 +1,15 @@
+D:\Home\ac_cheat\ac_externTasksLauncher\ac_externTasksLauncher\bin\Debug\ac_externTasksLauncher.exe.config
+D:\Home\ac_cheat\ac_externTasksLauncher\ac_externTasksLauncher\bin\Debug\ac_externTasksLauncher.exe
+D:\Home\ac_cheat\ac_externTasksLauncher\ac_externTasksLauncher\bin\Debug\ac_externTasksLauncher.pdb
+D:\Home\ac_cheat\ac_externTasksLauncher\ac_externTasksLauncher\obj\Debug\ac_externTasksLauncher.csprojAssemblyReference.cache
+D:\Home\ac_cheat\ac_externTasksLauncher\ac_externTasksLauncher\obj\Debug\ac_externTasksLauncher.Form1.resources
+D:\Home\ac_cheat\ac_externTasksLauncher\ac_externTasksLauncher\obj\Debug\ac_externTasksLauncher.Properties.Resources.resources
+D:\Home\ac_cheat\ac_externTasksLauncher\ac_externTasksLauncher\obj\Debug\ac_externTasksLauncher.csproj.GenerateResource.cache
+D:\Home\ac_cheat\ac_externTasksLauncher\ac_externTasksLauncher\obj\Debug\ac_externTasksLauncher.csproj.CoreCompileInputs.cache
+D:\Home\ac_cheat\ac_externTasksLauncher\ac_externTasksLauncher\obj\Debug\ac_externTasksLauncher.exe
+D:\Home\ac_cheat\ac_externTasksLauncher\ac_externTasksLauncher\obj\Debug\ac_externTasksLauncher.pdb
+D:\Home\ac_cheat\ac_externTasksLauncher\ac_externTasksLauncher\bin\Debug\Memory.dll
+D:\Home\ac_cheat\ac_externTasksLauncher\ac_externTasksLauncher\bin\Debug\System.Security.Principal.Windows.dll
+D:\Home\ac_cheat\ac_externTasksLauncher\ac_externTasksLauncher\bin\Debug\Memory.xml
+D:\Home\ac_cheat\ac_externTasksLauncher\ac_externTasksLauncher\bin\Debug\System.Security.Principal.Windows.xml
+D:\Home\ac_cheat\ac_externTasksLauncher\ac_externTasksLauncher\obj\Debug\ac_externTasksLauncher.csproj.CopyComplete
